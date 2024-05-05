@@ -1,0 +1,8 @@
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_port.h:271:20:PORT_SetPinConfig	32	static
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_port.h:443:20:PORT_SetPinInterruptConfig	24	static
+../source/GPIO.c:24:6:PORTC_IRQHandler	8	static
+../source/GPIO.c:32:6:PORTA_IRQHandler	8	static
+../source/GPIO.c:38:6:GPIO_init	24	static
+../source/GPIO.c:84:6:GPIO_clear_irq_status	16	static
+../source/GPIO.c:96:9:GPIO_get_irq_status	24	static

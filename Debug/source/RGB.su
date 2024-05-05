@@ -1,0 +1,5 @@
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+C:\TAE_DM\SDK\interrupts\API_LEDS_IR\drivers/fsl_port.h:374:20:PORT_SetPinMux	24	static
+../source/RGB.c:15:6:RGB_init	16	static
+../source/RGB.c:37:6:set_RGB	16	static
